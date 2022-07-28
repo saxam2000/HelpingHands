@@ -1,4 +1,4 @@
-Helping Hands
+HelpingHands
 
 # Install Dependencies
 
